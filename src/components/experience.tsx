@@ -29,8 +29,10 @@ const Experience = () => {
           • August 2021 - Present
         </Typography>
         <Box sx={{ marginTop: "10px" }}>
-          <Typography sx={{ fontWeight: "600" }}>
-            Pocketalk Device Management Application
+          <Typography sx={{ fontWeight: "600", '&:hover':{
+            cursor: 'pointer'
+          } }} onClick={()=>window.open('https://www.pocketalk.com/pocketalk-ventana/','_blank','noreferrer')}>
+            Pocketalk Ventana
           </Typography>
           <Typography>
             Currently working on a ReactJS project as Frontend Engineer that
@@ -43,9 +45,12 @@ const Experience = () => {
             as react-window, simplebar-react, chartJS etc to meet the
             requirements and faster performance of the application.
           </Typography>
+         
         </Box>
         <Box sx={{ marginTop: "10px" }}>
-          <Typography sx={{ fontWeight: "600" }}>
+        <Typography sx={{ fontWeight: "600", '&:hover':{
+            cursor: 'pointer'
+          } }} onClick={()=>window.open(' https://market.openpost.co.jp','_blank','noreferrer')}>
             A Digital Asset Marketplace
           </Typography>
           <Typography>

@@ -35,7 +35,7 @@ function HomePage() {
             Hi, I am Angkon Kumar Roy
           </Typography>
           <Typography>
-            Software engineer with nearly 2years of Full-Stack developing
+            Software engineer with 2years of Full-Stack developing
             experience with ReactJS and NodeJS with strong communication skill
             in English(both verbal and written). Focusing on reusable
             components, pixel perfect designing, problem solving and optimizing
